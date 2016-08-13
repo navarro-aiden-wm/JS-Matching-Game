@@ -1,0 +1,26 @@
+#rightSide {
+    left: 500px;
+    border-left: 1px solid black;
+    width:500px;
+    height:500px;
+    position: absolute;
+}
+
+#leftSide {
+    width:500px;
+    height:500px;
+}
+
+
+img {
+    position: absolute;
+}
+
+div {
+    margin: auto;
+    position: absolute;
+    background-color: purple;
+}
+body {
+    background-color: yellow;
+}
