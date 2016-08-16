@@ -32,5 +32,6 @@ function generateFaces() {
         theBody.onclick = null;
         theLeftSide.lastChild.onclick = null;
     };
+    theRightSide.removeChild(theRightSide.lastChild);
 }
 
