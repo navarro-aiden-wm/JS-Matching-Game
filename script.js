@@ -34,4 +34,3 @@ function generateFaces() {
     };
     theRightSide.removeChild(theRightSide.lastChild);
 }
-
